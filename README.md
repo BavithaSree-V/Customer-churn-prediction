@@ -11,11 +11,10 @@ This project predicts telecom customer churn using a machine learning model buil
 📁 Folder Structure
 
 Customer-churn-project/
-│
 ├── Notebooks/
-│ └── Churn_Prediction.ipynb # Model development in Colab
+  └── Churn_Prediction.ipynb # Model development in Colab
 ├── Dashboard/
-│ └── Customer Churn Dashboard.pbix # Power BI visualization file
+  └── Customer Churn Dashboard.pbix # Power BI visualization file
 ├── README.md
 ├── dataset_info.txt
 
@@ -54,5 +53,6 @@ Customer-churn-project/
 - Adding deep learning models or hyperparameter tuning
 
 ⚠ Important Note
+
 
 *Dataset and trained ML model are not included in this repository due to size limits.*
